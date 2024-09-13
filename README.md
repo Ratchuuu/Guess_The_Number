@@ -1,0 +1,1 @@
+This is a quizz game,it can give the user a seqyence of questions,potentially each harder than the last.The user has to select the right answer,generally from a multiple choice array.It assigns points for the ones the user has gotten correct.
